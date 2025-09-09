@@ -1,0 +1,9 @@
+numpy 
+scipy 
+matplotlib 
+tqdm 
+numba 
+scikit-image 
+astropy 
+emcee
+torch
