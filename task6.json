@@ -1,0 +1,12 @@
+{
+  "ring_radius_arcsec": 2.398567476226029,
+  "ring_radius_std": 0.8562319654860608,
+  "magnification": NaN,
+  "n_images": 1,
+  "image_positions": [
+    [
+      0.005870841487279677,
+      0.005870841487279677
+    ]
+  ]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "gamma": 0.0,
+    "beta0_mag": 0.0,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 9.56598232801221e-17,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.0,
+    "beta0_mag": 0.1,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 1.0071704276638737e-16,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.0,
+    "beta0_mag": 0.2,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 1.161229745486322e-16,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.05,
+    "beta0_mag": 0.0,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 2.7900357918325734e-16,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.05,
+    "beta0_mag": 0.1,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 2.917909412736958e-16,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.05,
+    "beta0_mag": 0.2,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 3.305051591093203e-16,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.1,
+    "beta0_mag": 0.0,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 7.891346037492771e-16,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.1,
+    "beta0_mag": 0.1,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 8.196858414171989e-16,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.1,
+    "beta0_mag": 0.2,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 9.11600296611588e-16,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.2,
+    "beta0_mag": 0.0,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 5.704285553392436e-15,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.2,
+    "beta0_mag": 0.1,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 5.8488097508344095e-15,
+    "morphology": "single"
+  },
+  {
+    "gamma": 0.2,
+    "beta0_mag": 0.2,
+    "ring_radius_arcsec": 2.398567476226029,
+    "ring_width_std": 0.8562319654860608,
+    "magnification": 6.280037146924015e-15,
+    "morphology": "single"
+  }
+]
